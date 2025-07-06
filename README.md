@@ -19,7 +19,7 @@ No time limit.
 
 ---
 
-## 🎯 Focus Regions
+## Focus Regions
 
 - United States 🇺🇸  
 - Canada 🇨🇦  
